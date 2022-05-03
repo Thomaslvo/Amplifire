@@ -10,4 +10,4 @@ https://www.tutorialspoint.com/vb.net/vb.net_interview_questions.htm
 
 
 * Difference between Sprint review and Sprint retrospective?
-* Answer: Sprint review is a meeting at the end of a Scrum Sprint cycle where Scrum team members inspect what was done during the last Sprint and update their product backlog. Sprint retrospective is a structured meeting at the end of the Sprint where the Scrum team discusses their performance and ways of improving it.
+** Answer: Sprint review is a meeting at the end of a Scrum Sprint cycle where Scrum team members inspect what was done during the last Sprint and update their product backlog. Sprint retrospective is a structured meeting at the end of the Sprint where the Scrum team discusses their performance and ways of improving it.
